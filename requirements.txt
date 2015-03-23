@@ -1,0 +1,8 @@
+Flask
+Flask-WTF
+WTForms
+Flask-Security
+Flask-Uploads
+-e git://github.com/kvesteri/flask-storage.git#egg=Flask-Storage
+flask-mail
+Flask-Bootstrap

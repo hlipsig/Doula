@@ -1,0 +1,29 @@
+.row {
+	font-family: Helvetica, sans-serif;
+	line-height: 16px;
+}
+h4 {
+    text-decoration: underline;
+    color: #444242;
+}
+.container1 img {
+  max-height: 100%;
+  max-width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: table-cell;
+  vertical-align: middle;
+}
+.doula {
+	font-size: 18px;
+	text-align: left;
+	color: #444242;
+}
+.centered_div {
+	font-size: 18px;
+	text-align: center;
+	color: #444242;
+	margin-left: 175px;
+    margin-right: auto;
+}
